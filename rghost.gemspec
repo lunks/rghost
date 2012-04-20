@@ -2,7 +2,7 @@
 # 14 de Dezembro de 2007
 #
 Gem::Specification.new do |s|
-  s.name      = "rghost"
+  s.name      = "lunks_rghost"
   s.version = "0.8.7.6"
   s.authors = ["Shairon Toledo"]
   s.email     = "shairon.toledo@gmail.com"
